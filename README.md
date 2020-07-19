@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, bem-vindo ao meu GitHub 👊
 
-<!--
-**thiagotoyomoto/thiagotoyomoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bom, meu nome é Thiago, sou programador a 3 anos e tenho muita paixão pelo que faço!
+Como início, me formei como Técnico em Programação de Jogos Digitais pelo IFPR, onde
+obtive meu primeiro contato com programação de fato, aprendendo um pouco de C++ e
+focando mais na game engine chamada Unity (pelo menos enquanto durava o curso 😁).
+Depois da conclusão do mesmo, eu consegui a chance de entrar na UTFPR, especificamente
+no curso de Bacharel em Sistemas de Informação onde me encontro no momento.
 
-Here are some ideas to get you started:
+Atualmente estou mais no foco de desenvolvimento web, na parte de back-end utilizando
+o NodeJS como principal plataforma de desenvolvimento e TypeScript como linguagem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Como me contactar
+
+Email: t.k.toyomoto@gmail.com
+LinkedIn: [thiagotoyomoto](https://www.linkedin.com/in/thiagotoyomoto/)
