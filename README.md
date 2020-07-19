@@ -12,5 +12,5 @@ o NodeJS como principal plataforma de desenvolvimento e TypeScript como linguage
 
 ## Como me contactar
 
-Email: t.k.toyomoto@gmail.com
-LinkedIn: [thiagotoyomoto](https://www.linkedin.com/in/thiagotoyomoto/)
+- Email: t.k.toyomoto@gmail.com
+- LinkedIn: [thiagotoyomoto](https://www.linkedin.com/in/thiagotoyomoto/)
