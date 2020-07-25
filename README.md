@@ -10,4 +10,13 @@ no curso de Bacharel em Sistemas de Informação onde me encontro no momento no 
 Atualmente estou mais no foco de desenvolvimento web, na parte de back-end utilizando
 o NodeJS como principal plataforma de desenvolvimento e TypeScript como linguagem.
 
+💻 Sistema operacional: Ubuntu 20.04
+
+📚 Conhecimentos:
+- C
+- C++
+- JavaScript
+- TypeScript
+- NodeJS
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagotoyomoto&show_icons=true" alt="thiagotoyomoto" /> </p>
