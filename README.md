@@ -3,7 +3,7 @@
 Bom, meu nome é Thiago, sou programador a 3 anos e tenho muita paixão pelo que faço!
 Como início, me formei como Técnico em Programação de Jogos Digitais pelo IFPR, onde
 obtive meu primeiro contato com programação de fato, aprendendo um pouco de C++ e
-focando mais na game engine chamada Unity (pelo menos enquanto durava o curso 😁).
+focando mais na game engine chamada Unity com C# (pelo menos enquanto durava o curso 😁).
 Depois da conclusão do mesmo, eu consegui a chance de entrar na UTFPR, especificamente
 no curso de Bacharel em Sistemas de Informação onde me encontro no momento no 2º período.
 
